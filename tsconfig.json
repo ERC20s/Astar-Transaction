@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true
+  },
+  "module": "system",
+  "platform": "node",
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "extends": "@dcl/sdk/types/tsconfig.ecs7.json"
+}
